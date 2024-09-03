@@ -4,7 +4,7 @@ This week is all about getting the environments set up: Slack, Reclaim Hosting (
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/LxoXsJIwfdY>
 
 **Assignment**
 
