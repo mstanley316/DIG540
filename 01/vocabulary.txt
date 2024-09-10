@@ -3,3 +3,4 @@ collection
 repository
 system
 domain
+hosting
