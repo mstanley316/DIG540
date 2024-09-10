@@ -3,3 +3,5 @@ collection
 repository
 system
 metadata
+domain
+hosting
