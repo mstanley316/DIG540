@@ -1,3 +1,9 @@
 Add vocabulary terms below.
 repository
-
+system
+metadata
+domain
+hosting
+code
+pull request
+repository
