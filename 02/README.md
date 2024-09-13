@@ -4,7 +4,7 @@ Now we'll look more closely at the vocabulary file we created last week, turning
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/DbrWCgJr27Q>
 
 **Assignment**
 
